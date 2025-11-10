@@ -1,0 +1,11 @@
+{
+  "active": true,
+  "message": "ok",
+  "expire_at": "2025-12-01T00:00:00Z",   // ISO date or null
+  "disable_until": null,                 // ISO date to auto-enable بعد الموعد، أو null
+  "commands": {
+    "notify": "Maintenance window",
+    "disable_permanently": false,
+    "wipe_storage": false
+  }
+}
