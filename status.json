@@ -1,11 +1,11 @@
 {
-  "active": false,
+  "active": true,
   "message": "ok",
   "expire_at": null,
   "disable_until": null,
 
   "commands": {
-    "notify": "",
+    "notify": "A7A",
     "disable_permanently": false,
     "wipe_storage_once": false
   },
