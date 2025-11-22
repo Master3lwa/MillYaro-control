@@ -4,7 +4,7 @@
   "features": {
     "runCode1": true,
     "runCode2": true,
-    "runCode3": false,
+    "runCode3": true,
     "runCode4": true
   }
 }
