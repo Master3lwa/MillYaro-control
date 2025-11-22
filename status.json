@@ -1,24 +1,10 @@
 {
-  "active": true,
-  "message": "ok",
-  "expire_at": null,
-  "disable_until": null,
-
-  "commands": {
-    "notify": "A7A",
-    "disable_permanently": false,
-    "wipe_storage_once": false
-  },
-
-  "policy": {
-    "min_version": "1.0.0",
-    "max_version": null,
-    "maintenance_window": { "start": null, "end": null },
-    "allowed_origins": ["*"],
-    "blocked_origins": [],
-    "global_rate_limit_per_min": 120,
-    "ui_banner": ""
-  },
-
-  "ttl_seconds": 600
+  "status": "active",
+  "global_message": "",
+  "features": {
+    "runCode1": true,
+    "runCode2": true,
+    "runCode3": true,
+    "runCode4": true
+  }
 }
