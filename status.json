@@ -1,6 +1,6 @@
 {
   "status": "active",
-  "global_message": "",
+  "global_message": "تم التفعيل بنجاح",
   "features": {
     "runCode1": true,
     "runCode2": true,
